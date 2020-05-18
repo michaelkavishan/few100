@@ -1,0 +1,33 @@
+{
+    "editor.renameOnType": true,
+    "workbench.tree.indent": 25,
+    "breadcrumbs.enabled": true,
+    "html.format.wrapAttributes": "force-aligned",
+    "explorer.openEditors.visible": 0,
+    "editor.fontSize": 18,
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": false,
+    "files.autoSave": "onFocusChange",
+    "typescript.check.npmIsInstalled": true,
+    "editor.snippetSuggestions": "top",
+    "workbench.editor.labelFormat": "medium",
+    "editor.lineHeight": 28,
+    "editor.minimap.enabled": false,
+    "tslint.alwaysShowRuleFailuresAsWarnings": true,
+    "window.zoomLevel": 0,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground": "#ff0000"
+    },
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": false,
+        "source.fixAll.tslint": true
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.rendererType": "dom",
+    "terminal.integrated.shell.osx": "/usr/local/bin/pwsh",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+}
